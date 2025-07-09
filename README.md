@@ -20,7 +20,8 @@ ASP.NET Core no backend, SQL para organizar a casa, e um toque de frontend para 
 
 ### 📊 GitHub Stats
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasspaz&show_icons=true&theme=dracula)
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marloc412&show_icons=true&theme=dracula)
+
 
 ---
 
