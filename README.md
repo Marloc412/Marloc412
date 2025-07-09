@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Lucas Martins</h1>
 
-<!--
-**Marloc412/Marloc412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor Full Stack apaixonado por transformar ideias em soluções completas. <br />
+ASP.NET Core no backend, SQL para organizar a casa, e um toque de frontend para deixar tudo usável ☕🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que uso
+
+- 🔧 ASP.NET Core, C#
+- 🐘 SQL Server, MySQL
+- 🐍 Python
+- 🧠 C++
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasspaz&show_icons=true&theme=dracula)
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/lucas-martins-b16232252](https://www.linkedin.com/in/lucas-martins-b16232252)
+- 📬 E-mail: [lucasspaz25@gmail.com](mailto:lucasspaz25@gmail.com)
+
+---
+
+### 💡 Sobre mim
+
+Sou um desenvolvedor de soluções sistêmicas com foco em eficiência, organização e código limpo. <br/>
+Gosto de automatizar processos, criar APIs REST bem estruturadas, e resolver problemas com tecnologia. <br/>
+Sempre em busca de aprender algo novo, melhorar como profissional e ajudar a construir sistemas melhores.
+
+---
