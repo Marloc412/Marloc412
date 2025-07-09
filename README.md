@@ -17,6 +17,7 @@ ASP.NET Core no backend, SQL para organizar a casa, e um toque de frontend para 
 - 🐘 SQL Server, MySQL
 - 🐍 Python
 - 🧠 C++
+- 🐘 PHP
 - 🌐 HTML, CSS, JavaScript
 - 🛠️ Git & GitHub
 
