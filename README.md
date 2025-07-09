@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Marloc412/Marloc412/raw/main/banner.svg" alt="Lucas Martins" style="max-width: 100%; height: auto;" />
+</p>
+
 <h1 align="center">Olá! 👋 Eu sou o Lucas Martins</h1>
 
 <p align="center">
@@ -21,7 +25,6 @@ ASP.NET Core no backend, SQL para organizar a casa, e um toque de frontend para 
 ### 📊 GitHub Stats
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marloc412&show_icons=true&theme=dracula)
-
 
 ---
 
